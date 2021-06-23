@@ -1,2 +1,2 @@
-# Simple-Combine-Architecture
-🧩 Super Simple Combine Architecture using Swift UI
+# Super-SimpleUI-Architecture
+🧩 Super Simple SwiftUI Architecture
